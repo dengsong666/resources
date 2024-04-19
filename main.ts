@@ -1,0 +1,1 @@
+export { cet4, cet6, kaoyan } from "./src/words"
